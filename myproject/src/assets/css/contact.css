@@ -1,0 +1,22 @@
+/*.contact li{*/
+  /*max-width: 1000px;*/
+  /*float: right;*/
+  /*padding: 20px;*/
+  /*width: 93%;*/
+  /*overflow: hidden;*/
+  /*position: relative;*/
+  /*box-shadow: 1px 1px 3px 3px #F2F4F8;*/
+  /*margin-bottom: 30px;*/
+/*}*/
+/*.contactLiLf{*/
+  /*display: inline-block;*/
+  /*width: 80%;*/
+  /*float: left;*/
+/*}*/
+/*.contactLiRig{*/
+  /*position: absolute;*/
+  /*width: 20%;*/
+  /*text-align: right;*/
+  /*bottom: 20px;*/
+  /*right: 20px;*/
+/*}*/

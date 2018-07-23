@@ -1,0 +1,8 @@
+.newsTitle:hover{
+  color: #5c58eb;
+}
+.newsTitle{
+  cursor: pointer;
+  color: #223552;
+  transition: color .5s;
+}
