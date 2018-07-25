@@ -221,7 +221,6 @@ export default{
     this.clientHeightImgHei = Math.round((document.documentElement.clientWidth<1200?1200:document.documentElement.clientWidth) / 1920 * 300);
     window.onresize = function temp() {
       this.clientHeightImgHei = document.documentElement.clientWidth;
-
     };
   }
 }
