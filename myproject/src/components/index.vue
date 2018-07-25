@@ -345,7 +345,7 @@ export default{
       }
     },
     downLoadFn(){
-      window.open("../../static/pdf/white-paper-"+this.$store.state.lang+".pdf");
+      window.open("../../static/pdf/white-paper-new-"+this.$store.state.lang+".pdf");
     }
   },
   created(){

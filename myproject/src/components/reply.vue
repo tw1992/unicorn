@@ -215,7 +215,6 @@ export default{
         var scrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop;
       })
     })
-
   },
   mounted() {
     this.clientHeightImgHei = Math.round((document.documentElement.clientWidth<1200?1200:document.documentElement.clientWidth) / 1920 * 300);
