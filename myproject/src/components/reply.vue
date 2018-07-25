@@ -75,8 +75,10 @@ export default{
             subTitle:'Here are some common questions about UNICORN',
             questionType:'Question Type'
           },
-          listType:['Purchase','After-sales','Mining','Purse','Backup','Browser','Other'],
-          list1:[{title:'Purchase related',content:[{'Q':'the relationship between UIC smart choice and UIC block chain cell phone and sichuan changhong?','A':['UIC block chain cell phone is the first block chain cell phone with Unicorn developed jointly by Unicorn and changhong group. Unicare is an e-commerce platform focusing on intelligent hardware products and the only officially designated platform for UIC block chain cell phones']},
+          listType:['Unicorn related','UIC correlation','Purchase','After-sales','Mining','Purse','Backup','Browser','Other'],
+          list1:[{title:'Unicorn related',content:[{'Q':'what is Unicorn?','A':['Unicorn is A new mobile intelligent terminal operating system based on block chain technology, which helps the application of block chain including smart devices, digital wallets, Dapps to be implemented. Currently Unicorn has launched the block chain browser UICExplorer and launched the world\'s first block chain UIC mobile phone.']},{'Q':'what value does Unicorn have?','A':['in A nutshell, Unicorn is building the future mobile version of the ETH, or the mobile version of the EOS, both of which are doing the basic chain of ecology.','Unicorn itself does not make specific applications, but only does the development of basic underlying public chain technology. The because the unicorn is the underlying block chain operating system, and support all kinds of application development in our chain block chain, the chain of the future there will be a lot of application in our unicorn on construction, such as support for the game, traceability, security, health, payment, financial, and other industry application block chain, we need to do is to a block of ecological chain, not just a specific block chain applications. For example, we are building the infrastructure of hydropower and coal in the block chain, and the infrastructure of the block chain highway at the bottom, so the future value is huge.']}]},
+            {title:'UIC coin correlation',content:[{'Q':'what is UIC?','A':['the UIC (currency) optimal g is Unicorn block chain ecological token (card), the application in Unicorn the ecosystem of the economic system, Unicorn is in creating A block chain ecosystem, the future support all kinds of the actual block chain application will be born in Unicorn blocks in the ecological chain, such as anti-counterfeiting, traceability, access card, health, electricity, payment, entertainment, financial, and so on all kinds of block chain applications.']},{'Q':'what is UIC for?','A':['UIC is the universal Token at the bottom of the whole ecology. For example, in the future, the APP will be downloaded and charged in the APP market, and the value-added services in the application will be paid.']},{'Q':'how do I get the amount of UIC?','A':['the total amount of UIC (uber coin) is 1 billion, which is limited and cannot be added or tampered with.','80% (800 million) of these were randomly awarded through POW algorithms by users with Unicorn\'s mobile smart terminals.','The other 20% (200 million) are reserved for the future ecological construction of mobile newcomer network, and for the operation and orderly operation of the ecosystem, including rewarding the development team with forward-looking DApp and making great contributions to the upgrading of the infrastructure of mobile intelligent block chain operating system.']}]},
+            {title:'Purchase related',content:[{'Q':'the relationship between UIC smart choice and UIC block chain cell phone and sichuan changhong?','A':['UIC block chain cell phone is the first block chain cell phone with Unicorn developed jointly by Unicorn and changhong group. Unicare is an e-commerce platform focusing on intelligent hardware products and the only officially designated platform for UIC block chain cell phones']},
             {'Q':'what are the purchasing channels of UIC block chain cell phones?','A':['at present, we only support the purchase of WeChat public account "youke smart selection", and the purchase channel of PC will be opened in the future.']},
             {'Q':'where can I view the exclusive U code I got after purchasing the machine?','A':['after entering the homepage of the product, click "my" -- "my U code" in the upper left corner to view it.']},
             {'Q':'are there any restrictions?','A':['you can only order one piece of equipment at A time, and there is no upper limit to purchase.']},
@@ -123,8 +125,10 @@ export default{
             subTitle:'以下是关于unicorn的一些常见问题',
             questionType:'问题分类'
           },
-          listType:['购买相关','售后相关','挖矿相关','钱包相关','备份相关','浏览器相关','其他问题'],
-          list1:[{title:'购买相关',content:[{'Q':'优客智选和UIC区块链手机、四川长虹的关系？','A':['UIC区块链手机是由Unicorn与长虹集团合作研发的首款搭载Unicorn的区块链手机。优客智选是一家专注智能硬件产品的电商平台，也是UIC区块链手机的官方指定唯一发售平台。']},
+          listType:['Unicorn相关','UIC(优克币)相关','购买相关','售后相关','挖矿相关','钱包相关','备份相关','浏览器相关','其他问题'],
+          list1:[{title:'Unicorn相关',content:[{'Q':'Unicorn是什么？','A':['Unicorn是一款基于区块链技术的全新移动智能终端操作系统，帮助包括智能设备，数字钱包，Dapps等区块链应用落地。目前Unicorn已上线区块链浏览器UICExplorer，并推出全球首款UIC区块链手机。']},{'Q':'Unicorn具有怎样的价值？','A':['简单概括来说，Unicorn是在建设未来移动版的以太坊（ETH），或移动版的EOS，都是在做生态的基础公链。','Unicorn本身不做具体应用，只做基础底层公链技术开发。因为unicorn是底层区块链操作系统，支持各类区块链应用在我们链上开发，未来会有很多应用链在我们unicorn上建设，例如支持游戏、溯源、防伪、健康、支付、金融等各个产业的区块链应用，我们要做的是一个区块链生态，而不仅仅是某项具体的区块链应用。打个比方，我们在做区块链的水电煤的基础工程建设，在建底层的区块链高速公路的基础设施，所以未来价值巨大。']}]},
+            {title:'UIC（优克币）相关',content:[{'Q':'UIC（优克币）是什么？','A':['UIC（优克币）是Unicorn区块链生态的token（通证）, 应用在Unicorn的整个生态通证经济体系，unicorn是在打造一个区块链生态圈，未来支持各类实际区块链应用都会落地在unicorn区块链生态中，例如防伪、溯源、存证、大健康，电商、支付、娱乐、金融等等各类区块链应用。']},{'Q':'UIC（优克币）有什么用处？','A':['UIC就是整个生态的底层通用Token，比如未来去优克应用市场的下载收费APP，为应用程序中的增值服务付费，比如为游戏里面的装备付费，购买云存储，还有商家在应用市场投广告，这些都可以通过支付优克币来实现。']},{'Q':'UIC（优克币）的数量获取方式？','A':['UIC（优客币）总数为10亿个，总量有限且不可增发及篡改。','其中80%（8亿个）由拥有与Unicorn合作的移动智能终端的用户，通过POW算法随机获得奖励。','另外20%（2亿个）预留用于未来的移动新人网络生态建设，和运营、保障生态有序运转，包括奖励给有前瞻性DApp的开发团队，为移动智能区块链操作系统基础架构升级做出巨大贡献的个人和机构等。']}]},
+            {title:'购买相关',content:[{'Q':'优客智选和UIC区块链手机、四川长虹的关系？','A':['UIC区块链手机是由Unicorn与长虹集团合作研发的首款搭载Unicorn的区块链手机。优客智选是一家专注智能硬件产品的电商平台，也是UIC区块链手机的官方指定唯一发售平台。']},
             {'Q':'UIC区块链手机购买渠道有哪些？','A':['目前只支持微信公众号“优客智选”里面购买，后续会开通PC端的购买渠道。']},
             {'Q':'购机后自己获得的专属U码在哪可以查看？','A':['进入产品首页后点击左上角“我的”—“我的U码”里面可以查看。']},
             {'Q':'有限购吗？','A':['单次只能下单一部设备，累计没有购买上限。']},
@@ -193,7 +197,7 @@ export default{
         this.$refs.ulLeft.style.position = 'static';
       }
 
-      var arr = [6,5,4,3,2,1,0];
+      var arr = [8,7,6,5,4,3,2,1,0];
       for(var i = 0;i<arr.length;i++){
         var mTop = document.getElementById(arr[i]).offsetTop + this.clientHeightImgHei + 30 - 85;
         if(this.scroll >= mTop){
